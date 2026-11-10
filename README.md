@@ -1,4 +1,4 @@
-# Car Mileage Prediction (Task 1)
+# Car Mileage Prediction 
 
 This project is completed as part of the Artificial Intelligence and Machine Learning (AI/ML) Internship at **NeuroTech Solutions**.
 
